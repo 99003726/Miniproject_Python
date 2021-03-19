@@ -10,7 +10,7 @@
 
 
 ## Low Level Design 
-![image]
+
 
 
 ![FeaturesLevelStructuralDiagram](https://user-images.githubusercontent.com/78871033/111780972-1fa5aa00-88de-11eb-8ba6-ee778e649d48.png)
