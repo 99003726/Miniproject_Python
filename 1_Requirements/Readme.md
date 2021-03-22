@@ -1,8 +1,8 @@
 |ID|Requirements|Explanation |Status|
 | :- | :- | :- | :- |
-|HLR\_01|Excel sheets |To get Data in different excel sheets for populating master sheet|Implemented|
-|HLR\_02|Validating input|Read give input Data from sheet |Implementing|
-|HLR\_03|Writing Data|Writing data to Master sheet|Implementing|
+|HLR\_01|Excel sheets |To get or read Data in different excel sheets for populating master sheet|Implemented|
+|HLR\_02|Validating input|Read give input Data from sheet |Implemented|
+|HLR\_03|Writing Data|Writing data to Master sheet|Implemented|
 
 **HIGH LEVEL REQUIREMENTS:**
 
