@@ -12,10 +12,10 @@
 
 |ID|Requirements|Description|Status|
 | :- | :- | :- | :- |
-|LLR\_01|To Search Data from different sheets by key|Need to search data corresponding to a particular keyword in multiple Excel sheets|Implementing|
-|LLR\_02|Read Data from all different sheets|Read Data from different sheets of single Excel file|Implementing|
-|LLR\_03|To Write Data into a master sheet as per the user input after validation|Writing data to a single master sheet as per the user input, after reading all the sheets by automation using python pandas library|Implementing|
-|LLR\_04|Print and save Data in assigned sheet |Reading the data as well as writing data after retrieving data in backend via automation and print it if required To show whether data  successfully executed |Implementing|
+|LLR\_01|To Search Data from different sheets by key|Need to search data corresponding to a particular keyword in multiple Excel sheets|Implemented|
+|LLR\_02|Read Data from all different sheets|Read Data from different sheets of every single Excel file|Implemented|
+|LLR\_03|To Write Data into a master sheet as per the user input after validation|Writing data to a single master sheet as per the user input, after reading all the sheets by automation using python pandas library|Implemented|
+|LLR\_04|Print and save Data in assigned sheet |Reading the data as well as writing data after retrieving data in backend via automation and print it if required To show whether data  successfully executed |Implemented|
 
 
 Problem Statement:
