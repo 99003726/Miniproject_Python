@@ -4,5 +4,5 @@
 Folder        | description
 --------------| ----------------------------------------------
 `data`        | all excel sheets required for the program
-`src`         | Main source code for calculator
+`src`         | Main source code for data reading and writing 
 
